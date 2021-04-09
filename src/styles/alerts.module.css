@@ -1,0 +1,32 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+button{
+    margin: 2rem;
+    width:15rem;
+    height: 3rem;
+    border-radius: .5rem;
+    border: none;
+    color:#fff;
+    font-size: 1.5rem;
+}
+
+.error{
+    
+    background-color: #d93218;
+    
+}
+
+.oops{
+    background-color:#ff6d24;
+}
+
+.success{
+    background-color: #1f96ad;
+}

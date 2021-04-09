@@ -1,9 +1,12 @@
+import React from 'react'
+import Screen from './pages/'
+import './styles/global.css'
+
+
 function App() {
   return (
     <div className="App">
-     <>
-      <h1>Hello caraio</h1>
-     </>
+     <Screen />
     </div>
   );
 }
